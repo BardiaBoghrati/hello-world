@@ -1,2 +1,3 @@
 # hello-world
-let's learn about github
+lets learn about github
+I am some random guy who wants to learn github
